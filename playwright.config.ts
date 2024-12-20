@@ -7,6 +7,8 @@ const languageToPath: Record<string, string> = {
   en: '/en',
   et: '/et',
   fi: '/fi',
+  es: '/es',
+  is: '/is',
 };
 
 const langPath = languageToPath[LANGUAGE] || '/en';

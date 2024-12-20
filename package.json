@@ -2,7 +2,9 @@
   "name": "epicbet.com",
   "version": "1.0.0",
   "main": "index.js",
-  "scripts": {},
+  "scripts": {
+    "desktop-english-chrome": "BROWSER=chromium LANGUAGE=en npx playwright test --project=chromium"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",

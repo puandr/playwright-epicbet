@@ -1,0 +1,32 @@
+{
+    "en": {
+        "sport-button": "Sports",
+        "casino-button": "Casino",
+        "live-casino-button": "Live Casino",
+        "roadmap-button": "Roadmap"
+    },
+    "et": {
+        "sport-button": "Spordipanused",
+        "casino-button": "Kasiino",
+        "live-casino-button": "Live Kasiino",
+        "roadmap-button": "Plaanid"
+    },
+    "fi": {
+        "sport-button": "Vedonlyönti",
+        "casino-button": "Kasino",
+        "live-casino-button": "Livekasino",
+        "roadmap-button": "Roadmap"
+    },
+    "es": {
+        "sport-button": "Deportes",
+        "casino-button": "Casino",
+        "live-casino-button": "Casino en Vivo",
+        "roadmap-button": "Hoja de Ruta"
+    },
+    "is": {
+        "sport-button": "Íþróttir",
+        "casino-button": "Casino",
+        "live-casino-button": "Live Casino",
+        "roadmap-button": "Roadmap"
+    }
+}
